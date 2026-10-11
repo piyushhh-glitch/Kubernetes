@@ -1,2 +1,2 @@
 # Kubernetes
-Hands on Kubernetes -Minikube
+Hands on Kubernetes -Minikube & Kubectl 
